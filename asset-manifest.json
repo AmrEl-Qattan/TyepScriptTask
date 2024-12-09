@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TyepScriptTask/static/css/main.bdd63f27.css",
+    "main.js": "/TyepScriptTask/static/js/main.07f69502.js",
+    "index.html": "/TyepScriptTask/index.html",
+    "main.bdd63f27.css.map": "/TyepScriptTask/static/css/main.bdd63f27.css.map",
+    "main.07f69502.js.map": "/TyepScriptTask/static/js/main.07f69502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd63f27.css",
+    "static/js/main.07f69502.js"
+  ]
+}
